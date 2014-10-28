@@ -14,7 +14,7 @@ git clone https://github.com/WhyFamous/demos # clone this repository
 npm install # install dependencies
 ```
 
-#### Development
+### Development
 
 ```bash
 webpack-dev-server --reload=localhost
@@ -29,7 +29,7 @@ The optional `--reload=ip` flag [adds the live-reload snippet](https://github.co
 
 
 ### Production
-##Note: You may use these demos publicly only with written email (support (@) whyfamo.us) confirmation/permission and the correct attribution back to each body of work.## Any demo from a third party must fall under the original license of that project.
+#Note: You may use these demos publicly only with written email (support (@) whyfamo.us) confirmation/permission and the correct attribution back to each body of work.# Any demo from a third party must fall under the original license of that project.
 
 ```bash
 webpack --minify --env=production
