@@ -28,8 +28,9 @@ Now navigate to:
 The optional `--reload=ip` flag [adds the live-reload snippet](https://github.com/markmarijnissen/webpack-reload-plugin) to your bundle(s).
 
 
-### Production
-#Note: You may use these demos publicly only with written email (support (@) whyfamo.us) confirmation/permission and the correct attribution back to each body of work.# Any demo from a third party must fall under the original license of that project.
+### Production  
+
+Note: You may use these demos publicly only with written email (support (@) whyfamo.us) confirmation/permission and the correct attribution back to each body of work. Any demo from a third party must fall under the original license of that project.
 
 ```bash
 webpack --minify --env=production
