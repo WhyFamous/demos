@@ -1,10 +1,14 @@
 ## Demo.WhyFamo.us
 
 > Demonstration repo for the github pages for demo.whyfamo.us
-> Repo for the demo.whyfamo.us demo projects
-
+> Repo for the **[demo.whyfamo.us](http://demo.whyfamo.us)** demo projects
 ---
-### Building these demos with Famo.us and webpack
+### Building these demos with Famo.us
+
+- **[Famous Rolex](http://demo.whyfamo.us/rolex/)**
+- **[Bubble Menu](http://demo.whyfamo.us/bubblemenu/)**
+- **[Slide Show](http://demo.whyfamo.us/slideshow/)**
+- **[Splash](http://demo.whyfamo.us/splash/)**
 
 ####Installation
 
