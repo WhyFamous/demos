@@ -21,7 +21,8 @@ var config = {
   },
   resolve: {
     alias: {
-      'famous':'famous/src'
+      'famous':'famous/src',
+      'adarta':'adarta/src'
     }
   },
   devServer: {
@@ -39,7 +40,8 @@ var config = {
       { test: /\.eot$/,             loader: "file-loader?name=[path][name].[ext]" },
       { test: /\.ttf$/,             loader: "file-loader?name=[path][name].[ext]" },
       { test: /\.svg$/,             loader: "file-loader?name=[path][name].[ext]" },
-      { test: /index\.html$/,       loader: "file-loader?name=[path][name].[ext]" }
+      { test: /index\.html$/,       loader: "file-loader?name=[path][name].[ext]" },
+      { test: /config\.txt$/,       loader: "file-loader?name=[path][name].[ext]" }
     ]
   },
   plugins:[
@@ -81,5 +83,3 @@ function getEntries(){
 
 
 module.exports = config;
-
-

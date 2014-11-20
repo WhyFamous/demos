@@ -1,0 +1,5 @@
+{
+  "name": "demo.whyfamo.us",
+  "site_title": "Why Famo.us Demos",
+  "domain": "localhost:8080"
+}

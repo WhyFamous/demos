@@ -1,0 +1,12 @@
+{
+  "splash": {
+    "name": "splash",
+    "siteTitle": "WhyFamo.us Splash",
+    "url": "http://demo.whyfamo.us/splash/"
+  },
+  "rolex": {
+    "name": "rolex",
+    "siteTitle": "Famo.us Rolex",
+    "url": "http://demo.whyfamo.us/rolex/"
+  }
+}
