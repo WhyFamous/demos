@@ -97,7 +97,7 @@ define(function(require, exports, module) {
         return this._node.render();
     };
 
-    var _setListeners = function() {
+    function _setListeners() {
 
         this._optionsManager.on('change', function(event) {
             var key = event.id;
