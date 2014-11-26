@@ -10,3 +10,24 @@ html {
 .double-font {
     font-size: 2em;
 }
+
+a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: strong;
+  cursor: alias;
+}
+
+a:active {
+  color: #FFFFFF;
+  text-decoration: underline;
+}

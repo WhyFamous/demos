@@ -13,6 +13,8 @@ define(function(require, exports, module) {
 
     // create the main context
     var mainContext = Engine.createContext();
+    //mainContext.setPerspective(1000);
+
     var size = [undefined, undefined];
     Engine.nextTick(function() {
         //console.log('After tick=' + mainContext.getSize());
