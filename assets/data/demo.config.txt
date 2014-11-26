@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "name": "splash",
+    "title": "WhyFamo.us Splash",
+    "url": "http://demo.whyfamo.us/splash/",
+    "description": "A splash widget for loading.",
+    "author": "Tony Alves",
+    "authorUrl": "http://github.com/talves"
+  },
+  "rolex": {
+    "name": "rolex",
+    "title": "Famo.us Rolex",
+    "url": "http://demo.whyfamo.us/rolex/",
+    "description": "Clock widget in Javascript and Famo.us.Clock widget in Javascript and Famo.us.",
+    "author": "Tony Alves",
+    "authorUrl": "http://github.com/talves"
+  },
+  "bubblemenu": {
+    "name": "bubblemenu",
+    "title": "Famo.us BubbleMenu",
+    "url": "http://demo.whyfamo.us/bubblemenu/",
+    "description": "Example of a BubbleMenu in Famo.us.",
+    "author": "Tony Alves",
+    "authorUrl": "http://github.com/talves"
+  },
+  "slideshow": {
+    "name": "slideshow",
+    "title": "Famo.us SlideShow",
+    "url": "http://demo.whyfamo.us/slideshow/",
+    "description": "A better version of the Famo.us SlideShow.",
+    "author": "Famo.us (mods by Tony Alves)",
+    "authorUrl": "http://github.com/talves"
+  }
+}
