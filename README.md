@@ -1,20 +1,21 @@
-## Demo.WhyFamo.us
+## www.whyfamo.us/deprecated-demos/  
+(depricated see demos.whyfamo.us)
 
-> Demonstration repo for the github pages for demo.whyfamo.us
-> Repo for the **[demo.whyfamo.us](http://demo.whyfamo.us)** demo projects
+> Demonstration repo for the github pages for www.whyfamo.us/deprecated-demos/
+> Repo for the **[www.whyfamo.us/deprecated-demos/](http://www.whyfamo.us/deprecated-demos/)** demo projects
 ---
 ### Building these demos with Famo.us
 
-- **[Famous Rolex](http://demo.whyfamo.us/rolex/)**
-- **[Bubble Menu](http://demo.whyfamo.us/bubblemenu/)**
-- **[Slide Show](http://demo.whyfamo.us/slideshow/)**
-- **[Splash](http://demo.whyfamo.us/splash/)**
+- **[Famous Rolex](http://www.whyfamo.us/deprecated-demos/rolex/)**
+- **[Bubble Menu](http://www.whyfamo.us/deprecated-demos/bubblemenu/)**
+- **[Slide Show](http://www.whyfamo.us/deprecated-demos/slideshow/)**
+- **[Splash](http://www.whyfamo.us/deprecated-demos/splash/)**
 
 ####Installation
 
 ```bash
 npm install -g webpack webpack-dev-server # install webpack
-git clone https://github.com/WhyFamous/demos # clone this repository
+git clone https://github.com/WhyFamous/deprecated-demos # clone this repository
 npm install # install dependencies
 ```
 
